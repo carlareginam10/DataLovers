@@ -89,9 +89,9 @@ A lógica do projeto foi implementada completamente em JavaScript (ES6), HTML e 
 
 Como produto final foi criada uma página web LOL - Data Lovers, com layout simples e intuitivo  que permite visualizar os dados de todos os campeões em formato de card, filtrá-los e ordena-los. Também é possível verificar por meio de gráficos a média de forças entre os campeões e quantos pertencem a mais de uma categoria.
 
-Link para o produto final: https://jaquelinegds.github.io/data-lovers/
+Link para o produto final: https://carlareginam10.github.io/DataLovers/
 
 
-![data-lovers](https://github.com/JaquelineGDS/data-lovers/blob/master/src/assets/img/versaoFinal.png)
+![data-lovers](https://github.com/carlareginam10/DataLovers/blob/master/src/assets/img/versaoFinal.png)
 
 
